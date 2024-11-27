@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1062823738239",
+    "project_id": "minum-d21d6",
+    "storage_bucket": "minum-d21d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062823738239:android:c79bec2cf2bf5b1b56784a",
+        "android_client_info": {
+          "package_name": "com.nauproject.minum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN7qArn4r-5AwqzXXI4ylyweFIUGa57mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
